@@ -69,6 +69,6 @@ DeepSight DR is a deep learning-based system for classifying Diabetic Retinopath
 - ☁️ Cloud-based EHR integration
 - 🔓 Open-source + low-cost deployment kits
 
-## 📁 Repository Structure
+Kaggle Dataset Link:  https://www.kaggle.com/datasets/way2tutorials/diabetic-retinopathy-dataset-2023
 
 
